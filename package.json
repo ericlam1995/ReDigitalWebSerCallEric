@@ -1,0 +1,16 @@
+{
+  "name": "nodewebservice",
+  "version": "1.0.0",
+  "description": "A test to connect endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Eric Lam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
