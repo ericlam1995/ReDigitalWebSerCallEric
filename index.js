@@ -34,7 +34,7 @@ const options = {//Set up options to make
     },
     agentOptions: {//Call certificate file for access
         pfx: fs.readFileSync('CloudDirect client_test.p12'),
-        passphrase: 'eisa4aibah2Ogh0b'
+        passphrase: ''
 
     },
     rejectUnauthorized: false,
